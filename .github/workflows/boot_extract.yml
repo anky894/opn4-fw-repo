@@ -1,4 +1,4 @@
-name: Extract init_boot/boot image
+name: Extract firmware
 
 on:
     workflow_dispatch:
